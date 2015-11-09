@@ -40,9 +40,27 @@ Python Libraries
 
 ### Astronomy
 
-### Data Science / Data Analysis
+* Astropy (http://www.astropy.org/)
+* pyephem 
+* astroml
+* kapteyn
+
+### Data Science / Data Analysis / Scientific Libraries
+
+* pandas (http://pandas.pydata.org/)
+* numpy (http://www.numpy.org/)
+* scipy (http://www.scipy.org/)
+* statmodels (http://statsmodels.sourceforge.net/)
+* scikit-learn (http://scikit-learn.org/stable/)
+* scikit-image (http://scikit-image.org/)
 
 ### Visualization
+
+* matplotlib (http://matplotlib.org/)
+* bokeh (http://bokeh.pydata.org/en/0.10.0/index.html)
+* lighting (http://lightning-viz.org/clients/#python)
+* plot.ly
+* seaborn (http://stanford.edu/~mwaskom/software/seaborn/index.html)
 
 Tutorials, Learning Python, etc.
 --------------------------------
@@ -57,3 +75,13 @@ Tutorials, Learning Python, etc.
 * [Scipy Lecture Notes] (http://www.scipy-lectures.org/)
   Tutorials on the scientific Python ecosystem: a quick introduction to central 
   tools and techniques
+  
+* http://www.astropython.org/
+
+* http://www.astropy.org/astropy-tutorials/
+
+* http://nbviewer.ipython.org/github/bokeh/bokeh-notebooks/blob/master/index.ipynb
+
+* http://nbviewer.ipython.org/github/plotly/python-user-guide/blob/master/Index.ipynb
+
+* http://nbviewer.ipython.org/github/ipython/ipython/blob/3.x/examples/Index.ipynb
