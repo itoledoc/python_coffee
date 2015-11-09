@@ -10,11 +10,17 @@ Repository Contents
 Python Code
 -----------
 
+* itoledoc_coffee.ipynb: IToledo's ipython notebook for ESO python coffee
+
 Ipython (Jupyter) Notebooks
 ---------------------------
 
 Data for examples
 -----------------
+
+* baseline_channels_phase.txt: CSV file (separated by spaces) for IToledo's
+  ipython notebook. It contains data from a Phase Calibration Intent with
+  around 50 antennas.
 
 Links
 =====
