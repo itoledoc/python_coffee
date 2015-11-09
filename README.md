@@ -1,16 +1,26 @@
-# Python Coffee
+Python Coffee
+=============
 
 Github Repository for Python Coffee materials (ESO)
 
-## Python Code
 
-## Ipython (Jupyter) Notebooks
+Repository Contents
+===================
 
-## Data for examples
+Python Code
+-----------
 
-## Links
+Ipython (Jupyter) Notebooks
+---------------------------
 
-### Python Distributions and Tools
+Data for examples
+-----------------
+
+Links
+=====
+
+Python Distributions and Tools
+------------------------------
 
 * [Anaconda](https://www.continuum.io/downloads "Download Anaconda")
 * [Pycharm] (https://www.jetbrains.com/pycharm/) A Python IDE, made for python,
@@ -19,15 +29,17 @@ Github Repository for Python Coffee materials (ESO)
 * [nbviewer] (http://nbviewer.ipython.org/) A simple way to share Jupyter 
   (Ipython Notebooks) online.
 
-### Python Libraries
+Python Libraries
+----------------
 
-#### Astronomy
+### Astronomy
 
-#### Data Science / Data Analysis
+### Data Science / Data Analysis
 
-#### Visualization
+### Visualization
 
-### Tutorials, Learning Python, etc.
+Tutorials, Learning Python, etc.
+--------------------------------
 
 * [Exploratory computing with Python] 
   (http://mbakker7.github.io/exploratory_computing_with_python/).
