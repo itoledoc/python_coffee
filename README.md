@@ -10,10 +10,13 @@ Repository Contents
 Python Code
 -----------
 
-* itoledoc_coffee.ipynb: IToledo's ipython notebook for ESO python coffee
 
 Ipython (Jupyter) Notebooks
 ---------------------------
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/itoledoc/python_coffee)
+
+* itoledoc_coffee.ipynb: IToledo's ipython notebook for ESO python coffee
 
 Data for examples
 -----------------
