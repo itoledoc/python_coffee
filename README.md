@@ -62,7 +62,7 @@ Python Libraries
 * matplotlib (http://matplotlib.org/)
 * bokeh (http://bokeh.pydata.org/en/0.10.0/index.html)
 * lighting (http://lightning-viz.org/clients/#python)
-* plot.ly
+* plot.ly (http://plot.ly)
 * seaborn (http://stanford.edu/~mwaskom/software/seaborn/index.html)
 
 Tutorials, Learning Python, etc.
