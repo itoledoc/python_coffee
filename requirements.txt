@@ -1,4 +1,4 @@
-seabonr
+seaborn
 plotly
 pandas
 cufflinks
